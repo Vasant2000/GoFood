@@ -1,0 +1,17 @@
+/* Navbar styling */
+.navbar {
+    position: sticky !important;
+    top: 0;
+    left: 0;
+    display: flex;
+    width: 100%;
+    z-index: 2000; /* Ensure it stays above other content */
+    background-color: #ffffff; /* Background color for visibility */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Optional: Add shadow for better separation */
+    transition: top 0.3s ease; /* Smooth transition for dynamic behavior */
+}
+
+/* Add padding to the top of the content to avoid overlap with the navbar */
+.content-container {
+    padding-top: 0px; /* Adjust based on the height of your navbar */
+}

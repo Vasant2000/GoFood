@@ -1,0 +1,41 @@
+/* FilterButtons.css */
+
+/* Style for the season filter message */
+.season-message {
+  font-size: 18px;
+  color: blue;
+  text-align: center;
+  margin: 20px 0;
+  font-weight: bold;
+}
+
+/* Show All and Veg Only button container */
+.filter-buttons {
+  display: flex;
+  gap: 10px; /* Space out the buttons */
+  margin: 20px 0; /* Add some margin for spacing */
+  justify-content: center; /* Center align buttons horizontally */
+}
+
+/* Common button styles for Show All and Veg Only */
+.filter-buttons button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: yellow ; /* Default background color */
+  color: black; /* Default text color */
+  font-size: 16px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Style for active (pressed) buttons */
+.filter-buttons button.active {
+  background-color: blue; /* Background color when active */
+  color: white; /* Text color when active */
+}
+
+/* Add hover effect for better user experience */
+.filter-buttons button:hover {
+  background-color: rgb(239, 185, 7); /* Slightly darker yellow on hover */
+}
