@@ -32,29 +32,29 @@ And finally, we aim to provide healthy home-cooked food at affordable prices.
 
 #### Signup Page
 
-![1](https://github.com/Vasant2000/GoFood/blob/main/Signup%20Page.png)
+![1](https://github.com/Vasant2000/GoFood/blob/main/READMEAssets/Signup%20Page.png)
 
 #### Login Page
 
-![2](https://github.com/Vasant2000/GoFood/blob/main/Login%20Page.png)
+![2](https://github.com/Vasant2000/GoFood/blob/main/READMEAssets/Login%20Page.png)
 
 #### User Home Page
 
-![3](https://github.com/Vasant2000/GoFood/blob/main/Home%20Page%201.png)
-![4](https://github.com/Vasant2000/GoFood/blob/main/Home%20Page%202.png)
+![3](https://github.com/Vasant2000/GoFood/blob/main/READMEAssets/Home%20Page%201.png))
+![4](https://github.com/Vasant2000/GoFood/blob/main/READMEAssets/Home%20Page%202.png)
 
 
 #### Food Cart Page
 
-![5](https://github.com/Vasant2000/GoFood/blob/main/Cart.png)
+![5](https://github.com/Vasant2000/GoFood/blob/main/READMEAssets/Cart.png)
 
 #### Payment Page
 
-![6](https://github.com/Vasant2000/GoFood/blob/main/Payment.png)
+![6](https://github.com/Vasant2000/GoFood/blob/main/READMEAssets/Payment.png)
 
 #### Previous Orders Page
 
-![7](https://github.com/Vasant2000/GoFood/blob/main/Orders%20Page.png)
+![7](https://github.com/Vasant2000/GoFood/blob/main/READMEAssets/Orders%20Page.png)
 
 ## Getting Started
 
